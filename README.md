@@ -1,6 +1,6 @@
 # Talks
 
-Propose your talks/workshops for LinuxChix India meetups and events here.
+Propose your talks/workshops for PyLadies Delhi meetups and events here.
 
 
 **Format for proposal**
@@ -15,7 +15,7 @@ PyLadies Delhi - Talks
 ## 2018
 
 * [Priyal Trivedi](https://github.com/Priyal-Trivedi): **Building Custom Django Middleware**
-	      * [Presentation](http://slides.com/priyaltrivedi-1/deck-2).
+	* Resources: [Slides](http://slides.com/priyaltrivedi-1/deck-2).
 
 * [Pulkit Pahwa](https://github.com/pulkitpahwa): **Python 101**
 
