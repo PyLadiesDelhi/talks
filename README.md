@@ -14,13 +14,24 @@ PyLadies Delhi - Talks
 
 ## 2018
 
-* [Priyal Trivedi](https://github.com/Priyal-Trivedi): **Building Custom Django Middleware**
+* [Priyal Trivedi](https://github.com/Priyal-Trivedi): **Building Custom Django Middleware**.
 	* Resources: [Slides](http://slides.com/priyaltrivedi-1/deck-2).
 
-* [Pulkit Pahwa](https://github.com/pulkitpahwa): **Python 101**
 
+* [Pulkit Pahwa](https://github.com/pulkitpahwa): **Python 101**.
+
+
+* [Aaqa Ishtyaq](https://github.com/aaqaishtyaq): **Web Scraping 101**.
+	* Resources: [Slides](https://aaqaishtyaq.github.io/slides/webscrapy101/).
+	
+	
+* [Shrreya Behll](https://github.com/ShrreyaBehll): **OSS and Open Source Contribution**.
+	* Resources: [Slides](https://docs.google.com/presentation/d/1bZYVHrORZyuMUmjllxlmqhwhyNQARQ_7RvTozXQnYvI/).
+	
+	
+* [Jatin Kaushal](https://github.com/cocoa1231): **Chaos Engineering**.
 
 
 ---
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/MovingImage" property="dct:title" rel="dct:type">Talks</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://utkarsh2102.github.io/Pyladies-delhi-website/" property="cc:attributionName" rel="cc:attributionURL">PyLadies Delhi</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/MovingImage" property="dct:title" rel="dct:type">Talks</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://pyladiesdelhi.github.io/" property="cc:attributionName" rel="cc:attributionURL">PyLadies Delhi</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
