@@ -15,18 +15,18 @@ PyLadies Delhi - Talks
 ## 2018
 
 * [Priyal Trivedi](https://github.com/Priyal-Trivedi): **Building Custom Django Middleware**.
-	* Resources: [Slides](http://slides.com/priyaltrivedi-1/deck-2).
+	* Presentation: [Slides](http://slides.com/priyaltrivedi-1/deck-2).
 
 
 * [Pulkit Pahwa](https://github.com/pulkitpahwa): **Python 101**.
 
 
 * [Aaqa Ishtyaq](https://github.com/aaqaishtyaq): **Web Scraping 101**.
-	* Resources: [Slides](https://aaqaishtyaq.github.io/slides/webscrapy101/).
+	* Presentation: [Slides](https://aaqaishtyaq.github.io/slides/webscrapy101/).
 	
 	
 * [Shrreya Behll](https://github.com/ShrreyaBehll): **OSS and Open Source Contribution**.
-	* Resources: [Slides](https://docs.google.com/presentation/d/1bZYVHrORZyuMUmjllxlmqhwhyNQARQ_7RvTozXQnYvI/).
+	* Presentation: [Slides](https://docs.google.com/presentation/d/1bZYVHrORZyuMUmjllxlmqhwhyNQARQ_7RvTozXQnYvI/).
 	
 	
 * [Jatin Kaushal](https://github.com/cocoa1231): **Chaos Engineering**.
