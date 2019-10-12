@@ -16,6 +16,8 @@ PyLadies Delhi - Talks
 
 * [Shubhangi Gupta](https://github.com/Shubhangi0304): **#IamRemarkable**.
 
+* [Ruchika Gosain](https://github.com/ruchikabgosain): **Playing around with Adobe XD**.
+
 ---
 
 ## 2018
